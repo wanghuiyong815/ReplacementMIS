@@ -1,0 +1,11 @@
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.exe
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.pdb
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.Properties.Resources.resources
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.csproj.GenerateResource.Cache
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.exe.licenses
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.exe
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.pdb
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.EntryFrm.resources
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.MainFrm.resources
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.exe.config
+F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\MySql.Data.dll
