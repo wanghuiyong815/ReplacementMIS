@@ -53,5 +53,15 @@ namespace ReplacementMIS
 
 
         }
+
+
+        private void navBarItem1_LinkPressed(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+                xtraTabControl1.SelectedTabPage=xtraTabPage_rpbase;
+        }
+
+
+
+
     }
 }

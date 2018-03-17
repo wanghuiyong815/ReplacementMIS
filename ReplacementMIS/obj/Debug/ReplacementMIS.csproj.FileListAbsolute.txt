@@ -9,3 +9,15 @@ F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.EntryFrm
 F:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.MainFrm.resources
 F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.exe.config
 F:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\MySql.Data.dll
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.exe.config
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.exe
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.pdb
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.exe
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\ReplacementMIS.pdb
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\bin\Debug\MySql.Data.dll
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.csprojResolveAssemblyReference.cache
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.EntryFrm.resources
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.MainFrm.resources
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.Properties.Resources.resources
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.csproj.GenerateResource.Cache
+G:\myworkingprjs\ReplacementMIS\ReplacementMIS\obj\Debug\ReplacementMIS.exe.licenses
